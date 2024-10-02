@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                         Lancement de la partie                                                         |
+|                                                         ______________________                                                         |
+|                                                                                                                                        |
+|  Dans le menu principal, il faut choisir le menu "Lancer la partie".                                                                   |
+|  Dans ce menu, vous pouvez choisir entre jouer contre un ordinateur, jouer avec un ami ou choisir les paramètres.                      |
+|  Lorsque vous lancez une partie, vous devrez donner les noms des différents joueurs. Ensuite, vous arrivez sur un affichage où vous    |
+|  aurez plusieurs choix. Vous pouvez soit essayer d'obtenir un bonus, soit attaquer le joueur adverse ou soit regarder les infos du jeu.|
+|  Lorsque vous avez finis d'attaquer, de prendre un bonus ou de regarder les informations de la partie, vous retournez sur cette page.  |
+|  Cette affichage affiche le nombre de pv de chaque joueur, le nom de chaque joueur, le nombre de round maximum et le nombre actuel de  |
+|  round qui est passé. Il affiche aussi à quel joueur c'est au tour de jouer.                                                           |
+|                                                                                                                                        |
+|  (Lorsque vous jouez contre un ordinateur, les bonus et les attaque sont faits automatiquement pour le tour de l'ordinateur)           |
+|                                                                                                                                        |
+|  Chaque tour, il y a la possibilité d'avoir un round spécial, dans ce cas, chaque joueur doit répondre à une question et le 1er joueur |
+|  qui répond mal perds et laissez un bonus pour le joueur adverse                                                                       |
+|                                                                                                                                        |
+|  Le joueur qui possède le plus de point de vie ou qui en possède le moins à la fin du dernier round gagne la partie.                   |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|

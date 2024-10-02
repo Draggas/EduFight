@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                             Tenter le bonus                                                            |
+|                                                             _______________                                                            |
+|                                                                                                                                        |
+|  Vous pouvez tenter d'obtenir un bonus, attention ceci est à double tranchant puisque si vous répondez mal à la question, vous passez  |
+|  votre tour. Donc vous arrivez sur l'affichage du bonus et vous avez le nom du bonus pour lequel vous tentez de gagner, la question à  |
+|  laquelle vous voulez répondre. Vous devez donc répondre à cette question, si vous répondez bon, vous obtenez le bonus, si vous        |
+|  faux, vous n'obtenez pas le bonus et vous passez votre tour.                                                                          |
+|                                                                                                                                        |
+|  Voici les bonus que vous pouvez obtenir :                                                                                             |
+|  ATTAQUE      : Bonus d'attaque, votre attaque sera augmenté et vous ferez donc plus de dégâts à l'adversaire                          |
+|  BOUCLIER     : Bonus de défense, vous obtenez un bouclier qui vous permet d'encaisser des dégâts                                      |
+|  REGENERATION : Bonus de régénération, vous pouvez obtenir une régénération de pv qui permet de récupérer des pvs après chaque attaque |
+|  RESISTANCE   : Bonus de résistance, vous pouvez obtenir une résistance qui permet de diminuer les dégâts que vous recevez             |
+|  JOKERS       : Bonus de joker, qui vous permet de retenter une question si vous loupez cette question                                 |
+|  MYSTERE      : Choisi l'un des 5 bonus au dessus au hasard ou 1 malus. Le malus vous fais passer votre tour.                          |
+|                                                                                                                                        |
+|  Lorsque vous obtenez le bonus, vous pouvez vérifier quels avantages vous avez obtenu dans la page des informations de la partie.      |
+|                                                                                                                                        |
+|  Sur cette page là, vous verrez tous les informations du jeu.                                                                          |
+|  Vous verrez donc toutes les informations sur la partie, sur chaque joueur et les bonus que chaque joueur possède.                     |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|

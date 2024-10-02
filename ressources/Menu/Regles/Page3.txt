@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                     Comment naviguer dans le menu ?                                                    |
+|                                                     _______________________________                                                    |
+|                                                                                                                                        |
+|  Pour naviguer dans les menus, les saisies sont les suivantes pour la plupart des menus :                                              |
+|                                                                                                                                        |
+|  Saisie "1"  --> Navigation vers le haut                                                                                               |
+|  Saisie "2"  --> Navigation vers le bas                                                                                                |
+|  Saisie "0"  --> Lancement du menu selectionné là où est la case cocher                                                                |
+|  Saisie "-1" --> Retour dans le menu précédent                                                                                         |
+|                                                                                                                                        |
+|  Ces saisie est valable pour tous les pages où il y a la présence de case à cocher.                                                    |
+|                                                                                                                                        |
+|  Voici les différents menus du jeu :                                                                                                   |
+|                                                                                                                                        |
+|  Page Lancement du Jeu                                                                                                                 |
+|  --> Menu Principal                                                                                                                    |
+|                                                                                                                                        |
+|  ----> Menu Partie                                                                                                                     |
+|  ------> Lancer une partie (Ancienne partie / Nouvelle partie (1Joueur ou 2Joueurs))                                                   |
+|  ------> Changer les paramètres du jeu                                                                                                 |
+|                                                                                                                                        |
+|  ----> Menu Questions                                                                                                                  |
+|  ------> Choix de la matière :                                                                                                         |
+|  ------> -Ajouter une question                                                                                                         |
+|  ------> -Modifier une question                                                                                                        |
+|  ------> -Supprimer une question                                                                                                       |
+|                                                                                                                                        |
+|  ----> Règles du jeu                                                                                                                   |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|

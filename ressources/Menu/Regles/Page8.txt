@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                  Changer les questions (enseignants)                                                   |
+|                                                  ___________________________________                                                   |
+|                                                                                                                                        |
+|  Si vous êtes un enseignant, vous pouvez changer les questions pour chaque matière, voici ce que vous pouvez changer :                 |
+|  Ajouter une question : vous pouvez ajouter une nouvelle question dans une matière                                                     |
+|  Modifier une question : vous pouvez modifier une question dans une matière                                                            |
+|  Supprimer une question : vous pouvez supprimer une question dans une matière                                                          |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|

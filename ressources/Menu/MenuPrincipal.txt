@@ -1,0 +1,26 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                  _____________________________________________________________________                                 |
+|                                 |                                                                     |                                |
+|                                 |                       BIENVENUE DANS EDUFIGHT                       |                                |
+|                                 |                                                                     |                                |
+|                                 | Acquérir des connaissances en vous battant contre votre ami ou un   |                                |
+|                                 | robot. Des questions seront posés, à vous d'y répondre correctement.|                                |
+|                                 |                                                                     |                                |
+|                                 |                       _______________________                       |                                |
+|                                 |                  ■   |   LANCEZ LA PARTIE    |                      |                                |
+|                                 |                      |_______________________|                      |                                |
+|                                 |              (Choisissez quel partie voulez-vous jouer)             |                                |
+|                                 |                       _______________________                       |                                |
+|                                 |                  □   | MODIFIEZ LES QUESTIONS|                      |                                |
+|                                 |                      |_______________________|                      |                                |
+|                                 |      (Seul l'enseignant est autorisé à modifier les questions)      |                                |
+|                                 |                       _______________________                       |                                |
+|                                 |                  □   |     REGLES DU JEU     |                      |                                |
+|                                 |                      |_______________________|                      |                                |
+|                                 |                 (Règles du jeu + tutoriel + aides)                  |                                |
+|                                 |                                                                     |                                |
+|                                 |_____________________________________________________________________|                                |
+|                                                                                                                                        |

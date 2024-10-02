@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                                             Fin des règles                                                             |
+|                                                             ______________                                                             |
+|                                                                                                                                        |
+|   Voilà, c'est la fin des règles du jeu.                                                                                               |
+|   Si vous avez toutes questions n'hésitez pas à demander en envoyant un message aux fondateurs :                                       |
+|   De jesus teixeira Lucas : draggaspro@gmail.com                                                                                       |
+|   Beck Louis : beck.louis12@gmail.com                                                                                                  |
+|                                                                                                                                        |
+|   (Pour comprendre un jeu, la meilleure chose à faire est de jouer)                                                                    |
+|   Bon jeu et amusez-vous bien.                                                                                                         |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|

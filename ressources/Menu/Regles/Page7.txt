@@ -1,0 +1,34 @@
+ ________________________________________________________________________________________________________________________________________
+|                                              Changer les paramètres du jeu (enseignants)                                               |
+|                                              ___________________________________________                                               |
+|                                                                                                                                        |
+|  Vous pouvez changer les paramètres du jeu, voici les différents paramètres que vous pouvez changer :                                  |
+|  L'attaque de base : Changer l'attaque qui est mis par défaut au début de la partie                                                    |
+|  Les PV de base : Changer les PV que chaque joueur ont au début de la partie, ce sera aussi les PV maximum de chaque joueur.           |
+|  La résistance de base : Changer la résistance qui est appliqué au joueur au début de la partie                                        |
+|  Le nombre de round maximum : Changer le nombre de round qu'il y a au maximum dans la partie                                           |
+|  La chance d'avoir un round spécial : Changer le pourcentage de chance d'avoir un round spécial                                        |
+|  Le temps entre chaque obtention de bonus : Changer le nombre de tour pour obtenir un bonus                                            |
+|  La chance que l'ordinateur obtient un bonus : Changer le pourcentage de chance que l'ordinateur obtient un bonus                      |
+|  La chance que l'ordinateur réponds correctement : Changer le pourcentage de chance que l'ordinateur réponds correctement              |
+|  Chance d'avoir un bonus : Changer le pourcentage de chance d'avoir chaque bonus                                                       |
+|  Les matières qui sont disponible pendant la partie : Changer les matières qui sont disponible pendant la partie                       |
+|  Attention ! Ces modifications ne sont disponible qu'aux nouvelles parties qui sont créés.                                             |
+|                                                                                                                                        |
+|  Les paramètres optimals pour une partie sont mis par défaut au lancement du jeu, et sont mis en parenthèses quand vous changez un     |
+|  paramètre.                                                                                                                            |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|                                                                                                                                        |
+|         ____________            _______________________________________________________________________            ____________        |
+|        | /--------- |          |   Saisie "0" ou "1" --> Navigation sur la page gauche(0) / droite(1)  |          | ---------\ |       |
+|        | \--------- |          |   Saisie "-1"       --> Retour dans le menu précédent                 |          | ---------/ |       |
+|        |____________|          |_______________________________________________________________________|          |____________|       |
+|________________________________________________________________________________________________________________________________________|
